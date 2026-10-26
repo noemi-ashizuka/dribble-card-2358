@@ -1,0 +1,31 @@
+.card-white {
+  background-color: white;
+  padding: 8px;
+  width: 300px;
+}
+
+.card-white-img {
+  height: 150px;
+
+  background-size: cover;
+  background-position: center;
+}
+
+.card-white .list-inline {
+  text-align: right;
+  color: #B0B0B0;
+  padding-top: 8px;
+}
+
+.profile {
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  gap: 16px;
+}
+
+.profile a {
+  /* margin-bottom: 20px; */
+}
+
